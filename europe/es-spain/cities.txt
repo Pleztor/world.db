@@ -22,6 +22,13 @@ Granada,    region:an
 Pamplona,   region:na
 Vigo,       region:ga
 Valladolid, region:cl
+Castellón,  region:vc
+Alicante,   region:vc
+Gerona,     region:ct
+Tarragona,  region:ct
+Huelva,     region:an
+Córdoba,    region:an
+
 
 acoruna,      A Coruña,      region:ga
 sansebastian, San Sebastián, region:pv
